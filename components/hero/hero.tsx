@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from "react";
 
-const TARGET_DATE = new Date("2026-10-13T03:44:52").getTime();
+const TARGET_DATE = new Date("2026-11-02T03:44:52").getTime();
 
 export default function Hero() {
   const calculateTimeLeft = () => {
