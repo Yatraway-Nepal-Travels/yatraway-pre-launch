@@ -65,7 +65,7 @@ export default function Hero() {
         {/* Description */}
         <p className="text-lg sm:text-xl text-slate-300 max-w-2xl mx-auto mb-10 leading-relaxed font-light">
           Tell us what moves you — adventure, culture, food, nature, wellness,
-          romance, discovery — and we'll build an experience around you.
+          romance, discovery and we'll build an experience around you.
         </p>
 
         {/* Countdown */}
